@@ -1,0 +1,37 @@
+I:\Application Development\AD CW\bin\Debug\AD CW.exe.config
+I:\Application Development\AD CW\bin\Debug\AD CW.exe
+I:\Application Development\AD CW\bin\Debug\AD CW.pdb
+I:\Application Development\AD CW\obj\Debug\AD_CW.Form1.resources
+I:\Application Development\AD CW\obj\Debug\AD_CW.Properties.Resources.resources
+I:\Application Development\AD CW\obj\Debug\AD CW.csproj.GenerateResource.cache
+I:\Application Development\AD CW\obj\Debug\AD CW.csproj.CoreCompileInputs.cache
+I:\Application Development\AD CW\obj\Debug\AD CW.exe
+I:\Application Development\AD CW\obj\Debug\AD CW.pdb
+I:\Application Development\AD CW\obj\Debug\AD_CW.FormScore.resources
+I:\Application Development\AD CW\obj\Debug\AD_CW.FormQuiz.resources
+I:\Application Development\AD CW\obj\Debug\AD_CW.FormAddScore.resources
+I:\Application Development\AD CW\obj\Debug\AD CW.csproj.AssemblyReference.cache
+I:\Application Development\AD CW - Copy (3)\bin\Debug\AD CW.exe.config
+I:\Application Development\AD CW - Copy (3)\bin\Debug\AD CW.exe
+I:\Application Development\AD CW - Copy (3)\bin\Debug\AD CW.pdb
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD_CW.Form1.resources
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD_CW.FormQuiz.resources
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD_CW.Properties.Resources.resources
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD CW.csproj.GenerateResource.cache
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD CW.csproj.CoreCompileInputs.cache
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD CW.exe
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD CW.pdb
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD_CW.FormScoreView.resources
+I:\Application Development\AD CW - Copy (3)\obj\Debug\AD CW.csproj.AssemblyReference.cache
+I:\Application Development\SeaQuizGame\bin\Debug\AD CW.exe.config
+I:\Application Development\SeaQuizGame\bin\Debug\AD CW.exe
+I:\Application Development\SeaQuizGame\bin\Debug\AD CW.pdb
+I:\Application Development\SeaQuizGame\obj\Debug\AD_CW.Form1.resources
+I:\Application Development\SeaQuizGame\obj\Debug\AD_CW.FormQuiz.resources
+I:\Application Development\SeaQuizGame\obj\Debug\AD_CW.FormScoreView.resources
+I:\Application Development\SeaQuizGame\obj\Debug\AD_CW.Properties.Resources.resources
+I:\Application Development\SeaQuizGame\obj\Debug\AD CW.csproj.GenerateResource.cache
+I:\Application Development\SeaQuizGame\obj\Debug\AD CW.csproj.CoreCompileInputs.cache
+I:\Application Development\SeaQuizGame\obj\Debug\AD CW.exe
+I:\Application Development\SeaQuizGame\obj\Debug\AD CW.pdb
+I:\Application Development\SeaQuizGame\obj\Debug\AD CW.csprojAssemblyReference.cache

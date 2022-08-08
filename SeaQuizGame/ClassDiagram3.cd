@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AD_CW.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAACBAAAACAAAACAAIAAQAAAIAAAADAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AD_CW.FormQuiz">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAAAADACABIAAASIQAAKAMB4EAAKEAAMAARAIAA=</HashCode>
+      <FileName>FormQuiz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AD_CW.FormScoreView">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAQABAAIACAAAECAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormScoreView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AD_CW.DBSingleton">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAIAAAAAAAAAAAAAAAAAABAAAAAQAAAABAAAAA=</HashCode>
+      <FileName>DBSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
